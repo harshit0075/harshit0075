@@ -13,7 +13,7 @@ Hello stranger! My name is Harshit Kumar and I am a Full Stack Web Developer, pa
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- Checkout my **[Resume](https://drive.google.com/file/d/1HNiQXW_-4vU22nJ8jgFa8sbWsncTI22h/view?usp=sharing)**
+- Checkout my **[Resume](https://drive.google.com/file/d/1mJLkOcQK3AUk7TT-qdL614OicG-ckcGW/view)**
 
 - 🌱 I’m currently learning **MERN stack**
 
