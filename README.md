@@ -60,9 +60,9 @@ Hello stranger! My name is Harshit Kumar and I am a Full Stack Web Developer, pa
         </a>
       </td>
       <td width="25%" align="center">
-        <a href="https://chakra-ui.com/">
-          <span>Chakra UI</span><br /><br />
-          <img height="64px" src="https://itelofilho.gallerycdn.vsassets.io/extensions/itelofilho/chakra-ui-cheatsheet/0.1.2/1602346378840/Microsoft.VisualStudio.Services.Icons.Default" alt="Chakra UI Logo" />
+        <a href="https://getbootstrap.com/">
+          <span>BootStrap</span><br /><br />
+          <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnypmSfD0qba5JWbINQklmqcfzssqL61VSWjgaJHKE7A&s" alt="BootStrap UI Logo" />
         </a>
       </td>
     </tr>
