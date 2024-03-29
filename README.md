@@ -73,7 +73,7 @@ Hello stranger! My name is Harshit Kumar and I am a Full Stack Web Developer, pa
           <img
             height="64px"
             src="https://cdn.svgporn.com/logos/git-icon.svg"
-          />
+        />
         </a>
     </td>
       <td width="25%" align="center">
